@@ -1,5 +1,6 @@
 '''
-We are using random.uniform() to allow for random numbers between -1.0 and 1.0, allowing all the points to be plotted, and not just 1/4 of it (not the most elegant code, but it is spelled-out to learn the basics of the Monte Carlo Simulation):
+We are using random.uniform() to allow for random numbers between -1.0 and 1.0, allowing all the points to be plotted, and 
+not just 1/4th of it (not the most elegant code, but it is spelled-out to learn the basics of the Monte Carlo Simulation):
 '''
 
 import matplotlib.pyplot as plt
